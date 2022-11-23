@@ -1,4 +1,3 @@
-node
 const express = require('express');
 const Blockchain = require('../blockchain');
 const bodyParser = require('body-parser');
